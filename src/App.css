@@ -5,7 +5,7 @@
 .App-logo {
   height: 40px;
   float: left;
-
+  padding-top: 7px;
   padding-left: 40px;
 
 }
@@ -13,10 +13,11 @@
 
 
 .App-header {
-  background-color: #282c34;
+  background-color: #1D428A;
   height: 55px;
   align-itemns: center;
   display: flex;
+
 
 }
 
