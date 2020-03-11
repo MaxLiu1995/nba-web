@@ -1,4 +1,4 @@
-import logo from "./nav_logoman.svg";
+import logo from "../assets/images/nav_logoman.svg";
 import React from "react";
 
 export function TopNavBar(props){
@@ -6,7 +6,7 @@ export function TopNavBar(props){
         <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
         </header>
-    );
+    )
 
 }
 
